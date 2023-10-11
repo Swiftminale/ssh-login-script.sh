@@ -1,7 +1,7 @@
 #!/bin/bash
 #make sure to remove quatations below
 
-host_namei="your host name from sandbox"
+host_name="your host name from sandbox"
 user_name="Your Username from sandbox"
 password="Your Password from sandbox"
 
